@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="21"
+    build-mode="HOT_WARM"
+    density="hdpi"
+    format="10"
+    plugin-version="3.1.2"
+    timestamp="1528718515454"
+    token="-2499619991307983679"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="476" />
+    <task
+        name="instant-run-dex"
+        duration="78" />
+    <task
+        name="instant-run-transform"
+        duration="94" />
+    <task
+        name="verifier"
+        duration="7" />
+
+    <artifact
+        location="C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        build-mode="FULL"
+        timestamp="1528718114178"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
+            type="SPLIT_MAIN" />
+        <artifact
+            location="C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1528718358317"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\build\intermediates\builds\debug\1528718358317\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1528718515454"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

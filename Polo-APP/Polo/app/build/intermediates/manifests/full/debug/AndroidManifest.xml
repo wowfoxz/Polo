@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.lab_polo_cientifico.polo"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="27" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcherpolo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcherpolo"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        ///ACTIVITY DE INICIO///
+        <activity android:name="com.lab_polo_cientifico.polo.Activities.IngresoActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.lab_polo_cientifico.polo.Activities.Menu.PrincipalActivity" />
+        <activity
+            android:name="com.lab_polo_cientifico.polo.Activities.Menu.CalendarioMenuActivity"
+            android:parentActivityName="com.lab_polo_cientifico.polo.Activities.Menu.PrincipalActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Activities.Menu.PrincipalActivity" />
+        </activity>
+        <activity
+            android:name="com.lab_polo_cientifico.polo.Activities.Calendar.HoyCalendarioActivity"
+            android:parentActivityName="com.lab_polo_cientifico.polo.Activities.Menu.PrincipalActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Activities.Menu.PrincipalActivity" />
+        </activity>
+        <activity
+            android:name="com.lab_polo_cientifico.polo.Activities.Calendar.SemanalCalendarioActivity"
+            android:parentActivityName="com.lab_polo_cientifico.polo.Activities.Menu.PrincipalActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Activities.Menu.PrincipalActivity" />
+        </activity>
+        <activity
+            android:name="com.lab_polo_cientifico.polo.Activities.Calendar.MensualCalendarioActivity"
+            android:parentActivityName="com.lab_polo_cientifico.polo.Activities.Menu.PrincipalActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Activities.Menu.PrincipalActivity" />
+        </activity>
+        <activity
+            android:name="com.lab_polo_cientifico.polo.Activities.Menu.BuffetMenuActivity"
+            android:parentActivityName="com.lab_polo_cientifico.polo.Activities.Menu.PrincipalActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Activities.Menu.PrincipalActivity" />
+        </activity>
+        <activity
+            android:name="com.lab_polo_cientifico.polo.Activities.Bar.ListaComidasBarActivity"
+            android:parentActivityName="com.lab_polo_cientifico.polo.Activities.Menu.BuffetMenuActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Activities.Menu.BuffetMenuActivity" />
+        </activity>
+        <activity
+            android:name="com.lab_polo_cientifico.polo.Activities.Bar.GridComidasBarActivity"
+            android:parentActivityName="com.lab_polo_cientifico.polo.Activities.Menu.BuffetMenuActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Activities.Menu.BuffetMenuActivity" />
+        </activity>
+        <activity
+            android:name="com.lab_polo_cientifico.polo.Activities.Bar.ListaComidasBar2Activity"
+            android:parentActivityName="com.lab_polo_cientifico.polo.Activities.Menu.BuffetMenuActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Activities.Menu.BuffetMenuActivity" />
+        </activity>
+        <activity
+            android:name="com.lab_polo_cientifico.polo.Activities.NoticiasActivity"
+            android:parentActivityName="com.lab_polo_cientifico.polo.Activities.Menu.PrincipalActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Activities.Menu.PrincipalActivity" />
+        </activity>
+        <activity
+            android:name="com.lab_polo_cientifico.polo.Activities.ClimaActivity"
+            android:parentActivityName="com.lab_polo_cientifico.polo.Activities.Menu.PrincipalActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Activities.Menu.PrincipalActivity" />
+        </activity>
+    </application>
+
+</manifest>
