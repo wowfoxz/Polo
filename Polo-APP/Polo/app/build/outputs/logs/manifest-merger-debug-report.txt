@@ -1,195 +1,195 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:2:1-94:12
-INJECTED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:2:1-94:12
-INJECTED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:2:1-94:12
-INJECTED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:2:1-94:12
-MERGED from [com.android.support:design:27.1.1] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\6ada6cf44c5634f8cb3621a99e419d02\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\fa0d5a1e329a53834133231fc152065e\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\8c4a7ae77afa878ca3bfaaf1b5f2e025\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\801899cd3c1760efab32e67d3b7eb45a\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-v4:27.1.1] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\061d903f42b569cb6efc171f4bca302c\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\b16a9c5a68ca0d614df211425ccd4646\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\8e24ed4d90c51a919de4cd00a41fcfa9\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\4afd6a0e61c1466bb1fa602ffc0f7465\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\59c2d23fefbec0b152dc9df86bec0b6d\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c120dc9818e84b75acd230f707bde5c9\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\537c1b1f1cb97bad123c5ef219321722\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:27.1.1] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\9e5d8d36b208546a428bec6ed5668838\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\8131c7a7c0d106131a3275b8b3537b1b\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\4e662f082b6aa709ea12be4bd6f32290\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d1ce7bdd39fdc553cadf65a2741b3a6c\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\608b09a368ef56dda96b787a51419cf7\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\fef682ebbfdd460e12934d6c9893af67\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\96fe14133811cc7ebcf25cf45c6bfb43\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:2:1-94:12
-INJECTED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:2:1-94:12
-INJECTED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:2:1-94:12
+ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:2:1-94:12
+INJECTED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:2:1-94:12
+INJECTED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:2:1-94:12
+INJECTED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:2:1-94:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\6d91fefd60d6dca687d555ffe17144c9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e825c5aa347d3b8ed0921322d6365354\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\598c325292e6ff11d092f772b10c3676\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\cabbefeae9113fe4610e404081dc6acd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\6570ba679be7dcd599432453774ea4ea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\50e1167b281dfcf235dd21d3187c78fb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c5d6ec8a320863b05d50c2883d4c52c0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\6c36423f5da5e28f5f9701603e697992\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\635dfa4e0c81f4749eebbea4a682905d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\15d53c163893a31559a096347e26d58d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\74ff41c8cab910ae472b4cc55071e264\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\3625c62c18a3c385a8a386b1b8b6806d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\26827f74dc33d15f86065c2f61c8a969\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ff7b5280d7e0445dc81e22feebf45d62\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\eee5006826466876c3dae723204fad7b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\313e5ec627986a2d3503ef11164e68ed\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\37088415df441fe74322b809d1ec9b92\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8c4c2ee812a829cf4ef7c3ae65d3ec79\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:2:1-94:12
+INJECTED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:2:1-94:12
+INJECTED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:2:1-94:12
 	package
-		ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:3:5-43
-		INJECTED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:2:1-94:12
-		INJECTED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:2:1-94:12
+		INJECTED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:2:1-94:12
-		INJECTED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:2:1-94:12
+		INJECTED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:5:5-67
+ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:7:5-92:19
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\8c4a7ae77afa878ca3bfaaf1b5f2e025\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\8c4a7ae77afa878ca3bfaaf1b5f2e025\AndroidManifest.xml:9:5-20
+ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:7:5-92:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\598c325292e6ff11d092f772b10c3676\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\598c325292e6ff11d092f772b10c3676\AndroidManifest.xml:9:5-20
 	android:supportsRtl
-		ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:10:9-41
+		ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:10:9-41
 	android:roundIcon
-		ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:11:9-52
+		ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:11:9-52
 	android:icon
-		ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:9:9-47
+		ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:9:9-47
 	android:allowBackup
-		ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:8:9-35
+		ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:13:9-40
+		ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:13:9-40
 activity#com.lab_polo_cientifico.polo.Activities.IngresoActivity
-ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:15:9-21:20
+ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:15:9-21:20
 	android:name
-		ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:15:19-61
+		ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:15:19-61
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:16:13-20:29
+ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:17:17-69
+ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:17:25-66
+		ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:19:17-77
+ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:19:27-74
+		ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:19:27-74
 activity#com.lab_polo_cientifico.polo.Activities.Menu.PrincipalActivity
-ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:22:9-71
+ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:22:9-71
 	android:name
-		ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:22:19-68
+		ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:22:19-68
 activity#com.lab_polo_cientifico.polo.Activities.Menu.CalendarioMenuActivity
-ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:23:9-29:20
+ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:23:9-29:20
 	android:parentActivityName
-		ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:25:13-76
+		ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:25:13-76
 	android:name
-		ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:24:13-67
+		ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:24:13-67
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:26:13-28:70
+ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:26:13-28:70
 	android:value
-		ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:28:17-67
+		ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:28:17-67
 	android:name
-		ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:27:17-63
+		ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:27:17-63
 activity#com.lab_polo_cientifico.polo.Activities.Calendar.HoyCalendarioActivity
-ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:30:9-36:20
+ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:30:9-36:20
 	android:parentActivityName
-		ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:32:13-76
+		ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:32:13-76
 	android:name
-		ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:31:13-70
+		ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:31:13-70
 activity#com.lab_polo_cientifico.polo.Activities.Calendar.SemanalCalendarioActivity
-ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:37:9-43:20
+ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:37:9-43:20
 	android:parentActivityName
-		ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:39:13-76
+		ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:39:13-76
 	android:name
-		ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:38:13-74
+		ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:38:13-74
 activity#com.lab_polo_cientifico.polo.Activities.Calendar.MensualCalendarioActivity
-ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:44:9-50:20
+ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:44:9-50:20
 	android:parentActivityName
-		ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:46:13-76
+		ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:46:13-76
 	android:name
-		ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:45:13-74
+		ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:45:13-74
 activity#com.lab_polo_cientifico.polo.Activities.Menu.BuffetMenuActivity
-ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:51:9-57:20
+ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:51:9-57:20
 	android:parentActivityName
-		ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:53:13-76
+		ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:53:13-76
 	android:name
-		ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:52:13-63
+		ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:52:13-63
 activity#com.lab_polo_cientifico.polo.Activities.Bar.ListaComidasBarActivity
-ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:58:9-64:20
+ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:58:9-64:20
 	android:parentActivityName
-		ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:60:13-77
+		ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:60:13-77
 	android:name
-		ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:59:13-67
+		ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:59:13-67
 activity#com.lab_polo_cientifico.polo.Activities.Bar.GridComidasBarActivity
-ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:65:9-71:20
+ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:65:9-71:20
 	android:parentActivityName
-		ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:67:13-77
+		ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:67:13-77
 	android:name
-		ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:66:13-66
+		ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:66:13-66
 activity#com.lab_polo_cientifico.polo.Activities.Bar.ListaComidasBar2Activity
-ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:72:9-78:20
+ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:72:9-78:20
 	android:parentActivityName
-		ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:74:13-77
+		ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:74:13-77
 	android:name
-		ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:73:13-68
+		ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:73:13-68
 activity#com.lab_polo_cientifico.polo.Activities.NoticiasActivity
-ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:79:9-85:20
+ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:79:9-85:20
 	android:parentActivityName
-		ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:81:13-76
+		ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:81:13-76
 	android:name
-		ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:80:13-56
+		ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:80:13-56
 activity#com.lab_polo_cientifico.polo.Activities.ClimaActivity
-ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:86:9-91:20
+ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:86:9-91:20
 	android:parentActivityName
-		ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:87:13-76
+		ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:87:13-76
 	android:name
-		ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml:86:19-59
+		ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml:86:19-59
 uses-sdk
-INJECTED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:design:27.1.1] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\6ada6cf44c5634f8cb3621a99e419d02\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:27.1.1] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\6ada6cf44c5634f8cb3621a99e419d02\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\fa0d5a1e329a53834133231fc152065e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\fa0d5a1e329a53834133231fc152065e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\8c4a7ae77afa878ca3bfaaf1b5f2e025\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\8c4a7ae77afa878ca3bfaaf1b5f2e025\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\801899cd3c1760efab32e67d3b7eb45a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\801899cd3c1760efab32e67d3b7eb45a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.1.1] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\061d903f42b569cb6efc171f4bca302c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.1.1] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\061d903f42b569cb6efc171f4bca302c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\b16a9c5a68ca0d614df211425ccd4646\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\b16a9c5a68ca0d614df211425ccd4646\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\8e24ed4d90c51a919de4cd00a41fcfa9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\8e24ed4d90c51a919de4cd00a41fcfa9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\4afd6a0e61c1466bb1fa602ffc0f7465\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\4afd6a0e61c1466bb1fa602ffc0f7465\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\59c2d23fefbec0b152dc9df86bec0b6d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\59c2d23fefbec0b152dc9df86bec0b6d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c120dc9818e84b75acd230f707bde5c9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c120dc9818e84b75acd230f707bde5c9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\537c1b1f1cb97bad123c5ef219321722\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\537c1b1f1cb97bad123c5ef219321722\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.1.1] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\9e5d8d36b208546a428bec6ed5668838\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.1.1] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\9e5d8d36b208546a428bec6ed5668838\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\8131c7a7c0d106131a3275b8b3537b1b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\8131c7a7c0d106131a3275b8b3537b1b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\4e662f082b6aa709ea12be4bd6f32290\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\4e662f082b6aa709ea12be4bd6f32290\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d1ce7bdd39fdc553cadf65a2741b3a6c\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d1ce7bdd39fdc553cadf65a2741b3a6c\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\608b09a368ef56dda96b787a51419cf7\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\608b09a368ef56dda96b787a51419cf7\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\fef682ebbfdd460e12934d6c9893af67\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\fef682ebbfdd460e12934d6c9893af67\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\96fe14133811cc7ebcf25cf45c6bfb43\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\PC-LAB\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\96fe14133811cc7ebcf25cf45c6bfb43\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\6d91fefd60d6dca687d555ffe17144c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\6d91fefd60d6dca687d555ffe17144c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e825c5aa347d3b8ed0921322d6365354\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e825c5aa347d3b8ed0921322d6365354\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\598c325292e6ff11d092f772b10c3676\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\598c325292e6ff11d092f772b10c3676\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\cabbefeae9113fe4610e404081dc6acd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\cabbefeae9113fe4610e404081dc6acd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\6570ba679be7dcd599432453774ea4ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\6570ba679be7dcd599432453774ea4ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\50e1167b281dfcf235dd21d3187c78fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\50e1167b281dfcf235dd21d3187c78fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c5d6ec8a320863b05d50c2883d4c52c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c5d6ec8a320863b05d50c2883d4c52c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\6c36423f5da5e28f5f9701603e697992\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\6c36423f5da5e28f5f9701603e697992\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\635dfa4e0c81f4749eebbea4a682905d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\635dfa4e0c81f4749eebbea4a682905d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\15d53c163893a31559a096347e26d58d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\15d53c163893a31559a096347e26d58d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\74ff41c8cab910ae472b4cc55071e264\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\74ff41c8cab910ae472b4cc55071e264\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\3625c62c18a3c385a8a386b1b8b6806d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\3625c62c18a3c385a8a386b1b8b6806d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\26827f74dc33d15f86065c2f61c8a969\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\26827f74dc33d15f86065c2f61c8a969\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ff7b5280d7e0445dc81e22feebf45d62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ff7b5280d7e0445dc81e22feebf45d62\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\eee5006826466876c3dae723204fad7b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\eee5006826466876c3dae723204fad7b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\313e5ec627986a2d3503ef11164e68ed\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\313e5ec627986a2d3503ef11164e68ed\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\37088415df441fe74322b809d1ec9b92\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\37088415df441fe74322b809d1ec9b92\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8c4c2ee812a829cf4ef7c3ae65d3ec79\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\wowfoxz2\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8c4c2ee812a829cf4ef7c3ae65d3ec79\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\PC-LAB\AndroidStudioProjects\polo 05-06-2018\Polo-APP\Polo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wowfoxz2\Desktop\polo\Polo\Polo-APP\Polo\app\src\main\AndroidManifest.xml

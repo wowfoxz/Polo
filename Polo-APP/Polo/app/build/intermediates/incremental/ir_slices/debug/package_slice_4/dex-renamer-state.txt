@@ -1,4 +1,4 @@
-#Fri Jun 08 09:24:12 WGST 2018
-base.0=C\:\\Users\\PC-LAB\\AndroidStudioProjects\\polo 05-06-2018\\Polo-APP\\Polo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+#Tue Jun 12 11:23:53 ART 2018
+base.0=C\:\\Users\\wowfoxz2\\Desktop\\polo\\Polo\\Polo-APP\\Polo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
 path.0=classes.dex
 renamed.0=classes.dex

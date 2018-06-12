@@ -1,10 +1,10 @@
 #Internal package file, do not edit.
-#Fri Jun 08 13:08:57 WGST 2018
-1.base=C\:\\Users\\PC-LAB\\AndroidStudioProjects\\polo 05-06-2018\\Polo-APP\\Polo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12
+#Tue Jun 12 11:23:54 ART 2018
+1.base=C\:\\Users\\wowfoxz2\\Desktop\\polo\\Polo\\Polo-APP\\Polo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12
 2.path=classes.dex
 0.baseType=DIRECTORY
 3.baseType=DIRECTORY
-2.base=C\:\\Users\\PC-LAB\\AndroidStudioProjects\\polo 05-06-2018\\Polo-APP\\Polo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13
+2.base=C\:\\Users\\wowfoxz2\\Desktop\\polo\\Polo\\Polo-APP\\Polo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13
 3.set=DEX
 2.set=DEX
 1.baseType=DIRECTORY
@@ -12,8 +12,8 @@
 count=4
 1.set=DEX
 0.path=classes.dex
-3.base=C\:\\Users\\PC-LAB\\AndroidStudioProjects\\polo 05-06-2018\\Polo-APP\\Polo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+3.base=C\:\\Users\\wowfoxz2\\Desktop\\polo\\Polo\\Polo-APP\\Polo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
 0.set=DEX
-0.base=C\:\\Users\\PC-LAB\\AndroidStudioProjects\\polo 05-06-2018\\Polo-APP\\Polo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\14
+0.base=C\:\\Users\\wowfoxz2\\Desktop\\polo\\Polo\\Polo-APP\\Polo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\14
 2.baseType=DIRECTORY
 1.path=classes.dex
