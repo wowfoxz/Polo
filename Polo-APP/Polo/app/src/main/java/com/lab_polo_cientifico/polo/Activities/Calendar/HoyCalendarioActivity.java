@@ -72,7 +72,7 @@ public class HoyCalendarioActivity extends AppCompatActivity {
                                                     insertarcara();
                                                     imageButtonneutral.setVisibility(View.INVISIBLE);
                                                     imageButtonenojado.setVisibility(View.INVISIBLE);
-
+                                                    startActivity(new Intent(getApplicationContext(), PrincipalActivity.class));
                                                 }
                                             }
         );
@@ -85,6 +85,7 @@ public class HoyCalendarioActivity extends AppCompatActivity {
                                                       insertarcara();
                                                       imageButtonfeliz.setVisibility(View.INVISIBLE);
                                                       imageButtonenojado.setVisibility(View.INVISIBLE);
+                                                      startActivity(new Intent(getApplicationContext(), PrincipalActivity.class));
                                                   }
                                               }
         );
@@ -97,6 +98,7 @@ public class HoyCalendarioActivity extends AppCompatActivity {
                                                       insertarcara();
                                                       imageButtonfeliz.setVisibility(View.INVISIBLE);
                                                       imageButtonneutral.setVisibility(View.INVISIBLE);
+                                                      startActivity(new Intent(getApplicationContext(), PrincipalActivity.class));
                                                   }
                                               }
         );
@@ -114,7 +116,7 @@ public class HoyCalendarioActivity extends AppCompatActivity {
 
                         //Toast.makeText(getApplicationContext(), "BIENVENIDO " + jsonObject.getString("success"), Toast.LENGTH_LONG).show();
 
-                        startActivity(new Intent(getApplicationContext(), PrincipalActivity.class));
+
 
                         Log.i("informacion", "json bien");
                     } else {
