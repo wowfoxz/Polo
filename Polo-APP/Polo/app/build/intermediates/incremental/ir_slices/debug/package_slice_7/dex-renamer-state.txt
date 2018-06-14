@@ -1,4 +1,0 @@
-#Tue Jun 12 11:23:53 ART 2018
-base.0=C\:\\Users\\wowfoxz2\\Desktop\\polo\\Polo\\Polo-APP\\Polo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
-path.0=classes.dex
-renamed.0=classes.dex

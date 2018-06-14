@@ -3858,9 +3858,9 @@ public final class R {
     public static final int icon_group=0x7f080060;
     public static final int ifRoom=0x7f080061;
     public static final int image=0x7f080062;
-    public static final int imageButton2=0x7f080063;
-    public static final int imageButton3=0x7f080064;
-    public static final int imageButton4=0x7f080065;
+    public static final int imageButtonenojado=0x7f080063;
+    public static final int imageButtonfeliz=0x7f080064;
+    public static final int imageButtonneutral=0x7f080065;
     public static final int imageViewBar=0x7f080066;
     public static final int imageViewIcon=0x7f080067;
     public static final int imageViewLOCK=0x7f080068;

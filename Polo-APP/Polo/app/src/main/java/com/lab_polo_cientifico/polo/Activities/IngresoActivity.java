@@ -38,6 +38,11 @@ public class IngresoActivity extends AppCompatActivity {
     private static final String URL = "http://www.fgdevelopers.com/polo/user_control.php";
     private StringRequest request;
 
+    ///datos de usuario
+    public static String nombreUsuario;
+    public static String passUsuario;
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -50,14 +55,8 @@ public class IngresoActivity extends AppCompatActivity {
         getSupportActionBar().setDisplayShowHomeEnabled(true);
         getSupportActionBar().setIcon(R.mipmap.ic_launcherpolo);
 
-        ///Construyo boton///
-        buttonIngresar = (Button) findViewById(R.id.buttonIngresar);
-        ///construyo imagen////
-        imageViewLOCK = (ImageView) findViewById(R.id.imageViewLOCK);
-        imageViewUNLOCK = (ImageView) findViewById(R.id.imageViewUNLOCK);
-        ///construyo editext///
-        editTextUsuario = (EditText) findViewById(R.id.editTextUsuario);
-        editTextContraseña = (EditText) findViewById(R.id.editTextContraseña);
+        bindUI();
+
 
         requestQueue = Volley.newRequestQueue(this);
 
@@ -65,13 +64,12 @@ public class IngresoActivity extends AppCompatActivity {
         buttonIngresar.setOnClickListener(new View.OnClickListener()
 
                                           {
+
                                               @Override
                                               public void onClick(View v) {
-
                                                   imageViewLOCK.setVisibility(View.INVISIBLE);
-
-
-
+                                                  nombreUsuario = editTextUsuario.getText().toString();
+                                                  passUsuario = editTextContraseña.getText().toString();
                                               /*Intent nuevo = new Intent(IngresoActivity.this,PrincipalActivity.class);
                                               startActivity(nuevo);*/
 
@@ -90,8 +88,10 @@ public class IngresoActivity extends AppCompatActivity {
                                                               if (jsonObject.names().get(0).equals("success")) {
                                                                   imageViewUNLOCK.setVisibility(View.INVISIBLE);
 
-                                                                  Toast.makeText(getApplicationContext(), "SUCCESS " + jsonObject.getString("success"), Toast.LENGTH_LONG).show();
+                                                                  Toast.makeText(getApplicationContext(), "BIENVENIDO " + jsonObject.getString("success"), Toast.LENGTH_LONG).show();
+
                                                                   startActivity(new Intent(getApplicationContext(), PrincipalActivity.class));
+
                                                                   Log.i("informacion", "json bien");
                                                               } else {
                                                                   imageViewLOCK.setVisibility(View.VISIBLE);
@@ -128,5 +128,16 @@ public class IngresoActivity extends AppCompatActivity {
                                               }
                                           }
         );
+    }
+
+    private void bindUI() {
+        ///Construyo boton///
+        buttonIngresar = (Button) findViewById(R.id.buttonIngresar);
+        ///construyo imagen////
+        imageViewLOCK = (ImageView) findViewById(R.id.imageViewLOCK);
+        imageViewUNLOCK = (ImageView) findViewById(R.id.imageViewUNLOCK);
+        ///construyo editext///
+        editTextUsuario = (EditText) findViewById(R.id.editTextUsuario);
+        editTextContraseña = (EditText) findViewById(R.id.editTextContraseña);
     }
 }

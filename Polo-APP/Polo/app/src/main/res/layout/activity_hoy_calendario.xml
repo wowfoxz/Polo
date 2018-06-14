@@ -21,7 +21,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <ImageButton
-        android:id="@+id/imageButton2"
+        android:id="@+id/imageButtonfeliz"
         style="@style/Widget.AppCompat.ImageButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -34,7 +34,7 @@
         app:srcCompat="@drawable/cara_verde" />
 
     <ImageButton
-        android:id="@+id/imageButton3"
+        android:id="@+id/imageButtonneutral"
         style="@style/Widget.AppCompat.ImageButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -43,13 +43,13 @@
         android:layout_marginTop="144dp"
         android:background="@android:color/transparent"
         android:visibility="visible"
-        app:layout_constraintEnd_toStartOf="@+id/imageButton4"
-        app:layout_constraintStart_toEndOf="@+id/imageButton2"
+        app:layout_constraintEnd_toStartOf="@+id/imageButtonenojado"
+        app:layout_constraintStart_toEndOf="@+id/imageButtonfeliz"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/cara_amarilla" />
 
     <ImageButton
-        android:id="@+id/imageButton4"
+        android:id="@+id/imageButtonenojado"
         style="@style/Widget.AppCompat.ImageButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
