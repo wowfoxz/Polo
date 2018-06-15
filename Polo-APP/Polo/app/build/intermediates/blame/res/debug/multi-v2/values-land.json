@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\wowfoxz2\\Desktop\\polo\\Polo\\Polo-APP\\Polo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "outputFile": "C:\\Users\\PC-LAB\\AndroidStudioProjects\\Polo3\\Polo-APP\\Polo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\wowfoxz2\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e825c5aa347d3b8ed0921322d6365354\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\PC-LAB\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\fa0d5a1e329a53834133231fc152065e\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\wowfoxz2\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\6d91fefd60d6dca687d555ffe17144c9\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\PC-LAB\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\6ada6cf44c5634f8cb3621a99e419d02\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

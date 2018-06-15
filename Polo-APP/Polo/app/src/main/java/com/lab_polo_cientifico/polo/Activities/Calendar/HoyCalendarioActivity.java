@@ -16,6 +16,7 @@ import com.android.volley.VolleyError;
 import com.android.volley.toolbox.StringRequest;
 import com.android.volley.toolbox.Volley;
 import com.lab_polo_cientifico.polo.Activities.IngresoActivity;
+import com.lab_polo_cientifico.polo.Activities.Menu.CalendarioMenuActivity;
 import com.lab_polo_cientifico.polo.Activities.Menu.PrincipalActivity;
 import com.lab_polo_cientifico.polo.R;
 
@@ -36,6 +37,7 @@ public class HoyCalendarioActivity extends AppCompatActivity {
     private ImageButton imageButtonneutral;
     private ImageButton imageButtonenojado;
 
+    public String estado;
     private String usuario;
     private String pass;
     private int idEmocion;
@@ -57,6 +59,7 @@ public class HoyCalendarioActivity extends AppCompatActivity {
 
         requestQueue = Volley.newRequestQueue(this);
 
+        estado = IngresoActivity.estado;
         ///Construyo boton///
         imageButtonfeliz = (ImageButton) findViewById(R.id.imageButtonfeliz);
         imageButtonneutral = (ImageButton) findViewById(R.id.imageButtonneutral);
@@ -72,6 +75,8 @@ public class HoyCalendarioActivity extends AppCompatActivity {
                                                     insertarcara();
                                                     imageButtonneutral.setVisibility(View.INVISIBLE);
                                                     imageButtonenojado.setVisibility(View.INVISIBLE);
+                                                    CalendarioMenuActivity.buttonCalendarioHoy.setEnabled(false);
+                                                    IngresoActivity.estado = "true";
                                                     startActivity(new Intent(getApplicationContext(), PrincipalActivity.class));
                                                 }
                                             }
@@ -85,6 +90,8 @@ public class HoyCalendarioActivity extends AppCompatActivity {
                                                       insertarcara();
                                                       imageButtonfeliz.setVisibility(View.INVISIBLE);
                                                       imageButtonenojado.setVisibility(View.INVISIBLE);
+                                                      CalendarioMenuActivity.buttonCalendarioHoy.setEnabled(false);
+                                                      IngresoActivity.estado = "true";
                                                       startActivity(new Intent(getApplicationContext(), PrincipalActivity.class));
                                                   }
                                               }
@@ -98,6 +105,8 @@ public class HoyCalendarioActivity extends AppCompatActivity {
                                                       insertarcara();
                                                       imageButtonfeliz.setVisibility(View.INVISIBLE);
                                                       imageButtonneutral.setVisibility(View.INVISIBLE);
+                                                      CalendarioMenuActivity.buttonCalendarioHoy.setEnabled(false);
+                                                      IngresoActivity.estado = "true";
                                                       startActivity(new Intent(getApplicationContext(), PrincipalActivity.class));
                                                   }
                                               }
@@ -114,7 +123,7 @@ public class HoyCalendarioActivity extends AppCompatActivity {
                     if (jsonObject.names().get(0).equals("success")) {
 
 
-                        //Toast.makeText(getApplicationContext(), "BIENVENIDO " + jsonObject.getString("success"), Toast.LENGTH_LONG).show();
+                       Toast.makeText(getApplicationContext(), jsonObject.getString("success"), Toast.LENGTH_LONG).show();
 
 
 
@@ -140,7 +149,7 @@ public class HoyCalendarioActivity extends AppCompatActivity {
             }
         }) {
             @Override
-            protected Map<String, String> getParams() throws AuthFailureError {
+            protected Map<String, String > getParams() throws AuthFailureError {
                 HashMap<String, String> hashMap = new HashMap<String, String>();
                 hashMap.put("nombreUsuario", usuario);
                 hashMap.put("passUsuario", pass);

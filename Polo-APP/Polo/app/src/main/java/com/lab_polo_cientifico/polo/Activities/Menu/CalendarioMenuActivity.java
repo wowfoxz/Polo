@@ -9,15 +9,16 @@ import android.widget.Button;
 import com.lab_polo_cientifico.polo.Activities.Calendar.HoyCalendarioActivity;
 import com.lab_polo_cientifico.polo.Activities.Calendar.MensualCalendarioActivity;
 import com.lab_polo_cientifico.polo.Activities.Calendar.SemanalCalendarioActivity;
+import com.lab_polo_cientifico.polo.Activities.IngresoActivity;
 import com.lab_polo_cientifico.polo.R;
 
 public class CalendarioMenuActivity extends AppCompatActivity {
 
     ///Declaro boton///
-    private Button buttonCalendarioHoy;
+    public static Button buttonCalendarioHoy;
     private Button buttonCalendarioSemanal;
     private Button buttonCalendarioMesual;
-
+    public String estado;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -30,11 +31,15 @@ public class CalendarioMenuActivity extends AppCompatActivity {
         getSupportActionBar().setDisplayShowHomeEnabled(true);
         getSupportActionBar().setIcon(R.mipmap.ic_launcherpolo);
 
+        estado = IngresoActivity.estado;
         ///Construyo boton///
+
         buttonCalendarioHoy = (Button) findViewById(R.id.buttonCalendarioHoy);
         buttonCalendarioSemanal = (Button) findViewById(R.id.buttonCalendarioSemanal);
         buttonCalendarioMesual = (Button) findViewById(R.id.buttonCalendarioMesual);
-
+        if (estado =="true") {
+            buttonCalendarioHoy.setEnabled(false);
+        };
         ///Accion boton (Abrir nueva ventana)///
         buttonCalendarioHoy.setOnClickListener(new View.OnClickListener()
 
@@ -43,6 +48,7 @@ public class CalendarioMenuActivity extends AppCompatActivity {
                                                    public void onClick(View v) {
                                                        Intent nuevo = new Intent(CalendarioMenuActivity.this, HoyCalendarioActivity.class);
                                                        startActivity(nuevo);
+
                                                    }
                                                }
         );
@@ -55,6 +61,7 @@ public class CalendarioMenuActivity extends AppCompatActivity {
                                                        public void onClick(View v) {
                                                            Intent nuevo = new Intent(CalendarioMenuActivity.this, SemanalCalendarioActivity.class);
                                                            startActivity(nuevo);
+
                                                        }
                                                    }
         );
@@ -67,8 +74,11 @@ public class CalendarioMenuActivity extends AppCompatActivity {
                                                       public void onClick(View v) {
                                                           Intent nuevo = new Intent(CalendarioMenuActivity.this, MensualCalendarioActivity.class);
                                                           startActivity(nuevo);
+
                                                       }
                                                   }
         );
     }
+
+
 }

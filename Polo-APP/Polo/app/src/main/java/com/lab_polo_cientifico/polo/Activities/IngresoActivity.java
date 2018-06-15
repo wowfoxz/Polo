@@ -38,9 +38,11 @@ public class IngresoActivity extends AppCompatActivity {
     private static final String URL = "http://www.fgdevelopers.com/polo/user_control.php";
     private StringRequest request;
 
+
     ///datos de usuario
     public static String nombreUsuario;
     public static String passUsuario;
+    public static String estado;
 
 
 
@@ -88,7 +90,9 @@ public class IngresoActivity extends AppCompatActivity {
                                                               if (jsonObject.names().get(0).equals("success")) {
                                                                   imageViewUNLOCK.setVisibility(View.INVISIBLE);
 
-                                                                  Toast.makeText(getApplicationContext(), "BIENVENIDO " + jsonObject.getString("success"), Toast.LENGTH_LONG).show();
+                                                                 estado =  jsonObject.getString("success");
+
+                                                                  Toast.makeText(getApplicationContext(),estado, Toast.LENGTH_LONG).show();
 
                                                                   startActivity(new Intent(getApplicationContext(), PrincipalActivity.class));
 
