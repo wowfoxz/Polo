@@ -5,27 +5,44 @@
     build-mode="COLD"
     density="hdpi"
     format="10"
-    ir-eligibility="COMPATIBLE"
     plugin-version="3.1.2"
-    timestamp="1529075171023"
+    timestamp="1529328864271"
     token="-4990005287328004210"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="R_CLASS_CHANGE" >
 
     <task
         name="javac"
-        duration="322" />
+        duration="2165" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="26" />
+        duration="131" />
     <task
         name="verifier"
-        duration="10" />
+        duration="107" />
 
     <artifact
+        location="C:\Users\PC-LAB\AndroidStudioProjects\Polo3\Polo-APP\Polo\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
         location="C:\Users\PC-LAB\AndroidStudioProjects\Polo3\Polo-APP\Polo\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\PC-LAB\AndroidStudioProjects\Polo3\Polo-APP\Polo\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\PC-LAB\AndroidStudioProjects\Polo3\Polo-APP\Polo\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\PC-LAB\AndroidStudioProjects\Polo3\Polo-APP\Polo\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\PC-LAB\AndroidStudioProjects\Polo3\Polo-APP\Polo\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\PC-LAB\AndroidStudioProjects\Polo3\Polo-APP\Polo\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
         type="SPLIT" />
     <artifact
         location="C:\Users\PC-LAB\AndroidStudioProjects\Polo3\Polo-APP\Polo\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
@@ -33,13 +50,28 @@
 
     <build
         build-mode="FULL"
-        timestamp="1529073163714"
+        timestamp="1529327698333"
         verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\PC-LAB\AndroidStudioProjects\Polo3\Polo-APP\Polo\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
         <artifact
             location="C:\Users\PC-LAB\AndroidStudioProjects\Polo3\Polo-APP\Polo\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
+            location="C:\Users\PC-LAB\AndroidStudioProjects\Polo3\Polo-APP\Polo\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\PC-LAB\AndroidStudioProjects\Polo3\Polo-APP\Polo\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\PC-LAB\AndroidStudioProjects\Polo3\Polo-APP\Polo\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
             location="C:\Users\PC-LAB\AndroidStudioProjects\Polo3\Polo-APP\Polo\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\PC-LAB\AndroidStudioProjects\Polo3\Polo-APP\Polo\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\PC-LAB\AndroidStudioProjects\Polo3\Polo-APP\Polo\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
@@ -54,43 +86,33 @@
             location="C:\Users\PC-LAB\AndroidStudioProjects\Polo3\Polo-APP\Polo\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
+            location="C:\Users\PC-LAB\AndroidStudioProjects\Polo3\Polo-APP\Polo\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1529328864271"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
             location="C:\Users\PC-LAB\AndroidStudioProjects\Polo3\Polo-APP\Polo\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\PC-LAB\AndroidStudioProjects\Polo3\Polo-APP\Polo\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\PC-LAB\AndroidStudioProjects\Polo3\Polo-APP\Polo\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\PC-LAB\AndroidStudioProjects\Polo3\Polo-APP\Polo\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\PC-LAB\AndroidStudioProjects\Polo3\Polo-APP\Polo\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\PC-LAB\AndroidStudioProjects\Polo3\Polo-APP\Polo\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\PC-LAB\AndroidStudioProjects\Polo3\Polo-APP\Polo\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\PC-LAB\AndroidStudioProjects\Polo3\Polo-APP\Polo\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\PC-LAB\AndroidStudioProjects\Polo3\Polo-APP\Polo\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\PC-LAB\AndroidStudioProjects\Polo3\Polo-APP\Polo\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
-            type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        ir-eligibility="FIELD_ADDED"
-        timestamp="1529074869096"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\Users\PC-LAB\AndroidStudioProjects\Polo3\Polo-APP\Polo\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\PC-LAB\AndroidStudioProjects\Polo3\Polo-APP\Polo\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
-            type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
-        ir-eligibility="COMPATIBLE"
-        timestamp="1529075171023"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\Users\PC-LAB\AndroidStudioProjects\Polo3\Polo-APP\Polo\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\PC-LAB\AndroidStudioProjects\Polo3\Polo-APP\Polo\app\build\intermediates\instant-run-apk\debug\app-debug.apk"

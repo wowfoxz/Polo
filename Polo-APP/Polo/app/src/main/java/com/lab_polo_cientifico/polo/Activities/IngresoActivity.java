@@ -92,7 +92,7 @@ public class IngresoActivity extends AppCompatActivity {
 
                                                                  estado =  jsonObject.getString("success");
 
-                                                                  Toast.makeText(getApplicationContext(),estado, Toast.LENGTH_LONG).show();
+                                                                 // Toast.makeText(getApplicationContext(),estado, Toast.LENGTH_LONG).show();
 
                                                                   startActivity(new Intent(getApplicationContext(), PrincipalActivity.class));
 

@@ -77,6 +77,7 @@ public class HoyCalendarioActivity extends AppCompatActivity {
                                                     imageButtonenojado.setVisibility(View.INVISIBLE);
                                                     CalendarioMenuActivity.buttonCalendarioHoy.setEnabled(false);
                                                     IngresoActivity.estado = "true";
+                                                    finish();
                                                     startActivity(new Intent(getApplicationContext(), PrincipalActivity.class));
                                                 }
                                             }
@@ -92,6 +93,7 @@ public class HoyCalendarioActivity extends AppCompatActivity {
                                                       imageButtonenojado.setVisibility(View.INVISIBLE);
                                                       CalendarioMenuActivity.buttonCalendarioHoy.setEnabled(false);
                                                       IngresoActivity.estado = "true";
+                                                      finish();
                                                       startActivity(new Intent(getApplicationContext(), PrincipalActivity.class));
                                                   }
                                               }
@@ -107,6 +109,7 @@ public class HoyCalendarioActivity extends AppCompatActivity {
                                                       imageButtonneutral.setVisibility(View.INVISIBLE);
                                                       CalendarioMenuActivity.buttonCalendarioHoy.setEnabled(false);
                                                       IngresoActivity.estado = "true";
+                                                      finish();
                                                       startActivity(new Intent(getApplicationContext(), PrincipalActivity.class));
                                                   }
                                               }
@@ -123,7 +126,7 @@ public class HoyCalendarioActivity extends AppCompatActivity {
                     if (jsonObject.names().get(0).equals("success")) {
 
 
-                       Toast.makeText(getApplicationContext(), jsonObject.getString("success"), Toast.LENGTH_LONG).show();
+                       //Toast.makeText(getApplicationContext(), jsonObject.getString("success"), Toast.LENGTH_LONG).show();
 
 
 
