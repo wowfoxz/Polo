@@ -40,12 +40,12 @@
         "source": "C:\\Users\\PC-LAB\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\fa0d5a1e329a53834133231fc152065e\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "C:\\Users\\PC-LAB\\AndroidStudioProjects\\Polo3\\Polo-APP\\Polo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
-        "source": "C:\\Users\\PC-LAB\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\fa0d5a1e329a53834133231fc152065e\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
-    },
-    {
         "merged": "C:\\Users\\PC-LAB\\AndroidStudioProjects\\Polo3\\Polo-APP\\Polo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_design_password_eye.xml.flat",
         "source": "C:\\Users\\PC-LAB\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\6ada6cf44c5634f8cb3621a99e419d02\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC-LAB\\AndroidStudioProjects\\Polo3\\Polo-APP\\Polo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\PC-LAB\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\fa0d5a1e329a53834133231fc152065e\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
         "merged": "C:\\Users\\PC-LAB\\AndroidStudioProjects\\Polo3\\Polo-APP\\Polo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
@@ -76,12 +76,12 @@
         "source": "C:\\Users\\PC-LAB\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\fa0d5a1e329a53834133231fc152065e\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "C:\\Users\\PC-LAB\\AndroidStudioProjects\\Polo3\\Polo-APP\\Polo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\PC-LAB\\AndroidStudioProjects\\Polo3\\Polo-APP\\Polo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "C:\\Users\\PC-LAB\\AndroidStudioProjects\\Polo3\\Polo-APP\\Polo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "C:\\Users\\PC-LAB\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\fa0d5a1e329a53834133231fc152065e\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC-LAB\\AndroidStudioProjects\\Polo3\\Polo-APP\\Polo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\PC-LAB\\AndroidStudioProjects\\Polo3\\Polo-APP\\Polo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "C:\\Users\\PC-LAB\\AndroidStudioProjects\\Polo3\\Polo-APP\\Polo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
@@ -288,12 +288,12 @@
         "source": "C:\\Users\\PC-LAB\\AndroidStudioProjects\\Polo3\\Polo-APP\\Polo\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\PC-LAB\\AndroidStudioProjects\\Polo3\\Polo-APP\\Polo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_clear_material.xml.flat",
-        "source": "C:\\Users\\PC-LAB\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\fa0d5a1e329a53834133231fc152065e\\res\\drawable\\abc_ic_clear_material.xml"
-    },
-    {
         "merged": "C:\\Users\\PC-LAB\\AndroidStudioProjects\\Polo3\\Polo-APP\\Polo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_polo.png.flat",
         "source": "C:\\Users\\PC-LAB\\AndroidStudioProjects\\Polo3\\Polo-APP\\Polo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_polo.png"
+    },
+    {
+        "merged": "C:\\Users\\PC-LAB\\AndroidStudioProjects\\Polo3\\Polo-APP\\Polo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_clear_material.xml.flat",
+        "source": "C:\\Users\\PC-LAB\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\fa0d5a1e329a53834133231fc152065e\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
         "merged": "C:\\Users\\PC-LAB\\AndroidStudioProjects\\Polo3\\Polo-APP\\Polo\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_title_material.xml.flat",
@@ -352,12 +352,12 @@
         "source": "C:\\Users\\PC-LAB\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\fa0d5a1e329a53834133231fc152065e\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\PC-LAB\\AndroidStudioProjects\\Polo3\\Polo-APP\\Polo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
-        "source": "C:\\Users\\PC-LAB\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\fa0d5a1e329a53834133231fc152065e\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png"
-    },
-    {
         "merged": "C:\\Users\\PC-LAB\\AndroidStudioProjects\\Polo3\\Polo-APP\\Polo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
         "source": "C:\\Users\\PC-LAB\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\fa0d5a1e329a53834133231fc152065e\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC-LAB\\AndroidStudioProjects\\Polo3\\Polo-APP\\Polo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\PC-LAB\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\fa0d5a1e329a53834133231fc152065e\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
         "merged": "C:\\Users\\PC-LAB\\AndroidStudioProjects\\Polo3\\Polo-APP\\Polo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
